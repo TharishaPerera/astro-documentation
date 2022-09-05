@@ -1,4 +1,4 @@
-name: Deploy Astro to Github Pages
+name: Deploy Astro project to Github Pages
 
 # Controls when the workflow will run
 on:
